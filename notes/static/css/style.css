@@ -50,3 +50,7 @@ a:hover {
     width: 100%;
     max-width: 800px;
 }
+
+.logout-button:hover {
+    opacity: .85;
+}
